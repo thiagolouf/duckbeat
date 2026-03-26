@@ -4,6 +4,10 @@
 DuckBeat is a tiny duck-themed spotify display powered by an ESP32  
 It shows the currently playing track, album art, and playback status. Controlling it using switches and a rotary encoder
 
+#### why i did it 
+I wanted a tiny desk companion that displays my currently playing Spotify music in a fun and satisfying way with the switches way.  
+The duck-themed design is because i love ducks and i have a ton lol
+
 stuff it haves/does
 
  * 1.8" color TFT display
