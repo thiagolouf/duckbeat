@@ -1,7 +1,7 @@
 # DuckBeat!!!
 ### cute lil spotify display :3
 
-DuckBeat is a tiny duck-themed spotify display powered by an ESP32
+DuckBeat is a tiny duck-themed spotify display powered by an ESP32  
 It shows the currently playing track, album art, and playback status. Controlling it using switches and a rotary encoder
 
 stuff it haves/does
@@ -19,7 +19,3 @@ hardware
  * 3x MX Mechanical Switches
  * EC11 Rotary Encoder
  * WS2812 LED Ring
-
-status
-
- Design phase, enclosure and wiring in progress.
