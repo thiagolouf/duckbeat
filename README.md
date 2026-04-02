@@ -31,3 +31,15 @@ The duck-themed design is because i love ducks and i have a ton on my room lol
 ## render 
 
 ![render](images/duckbeat_render.png)
+
+## bill of materials
+
+| Component | Purpose | Qty | Cost (USD) | Distributor |
+|----------|---------|-----|-----------|-------------|
+| EC11 Rotary Encoder | control music | 1 | 0.00 | local shop |
+| Red MX Switches | control playback | 3 | 5.31 | Aliexpress |
+| WS2812B 144/m LED strip (1m, IP30) | move the ligths to the music and more | 1 | 9.97 | Aliexpress |
+| TFT ST7735 1.8" Display | display Spotify info | 1 | 5.77 | Aliexpress |
+| ESP32-C3 SuperMini | main microcontroller | 1 | 5.66 | Aliexpress |
+
+**Estimated total cost:** $32.32
