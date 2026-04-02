@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"EC11 Rotary Encoder","control music",1,0.00,"","local shop"
+"Red MX Switches","to control playback",3,5.31,"https://es.aliexpress.com/item/1005007253216906.html?","Aliexpress"
+"WS2812B 144/m led 1m","move the ligths to the music and more",1,9.97,"https://es.aliexpress.com/item/1005007982624217.html?","Aliexpress"
+"TFT ST7735 1.8 Display","to display the spotify music player",1,5.77,"https://es.aliexpress.com/item/1005009447193931.html?","Aliexpress"
+"ESP32-C3","to control the whole project",1,5.66,"https://es.aliexpress.com/item/1005008796274949.html?","Aliexpress"
